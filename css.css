@@ -1,0 +1,54 @@
+.bold {
+    font-weight: 600;
+}
+
+.red {
+    color: red;
+    font-weight: 600;
+}
+
+.blue {
+    color: blue;
+    font-weight: 600;
+}
+
+.green {
+    color: green;
+    font-weight: 600;
+}
+
+.orange {
+    color: orange;
+    font-weight: 600;
+}
+
+.yellow {
+    color: yellow;
+    font-weight: 600;
+}
+
+.bred {
+    background-color: #ffcccc;
+    font-weight: 600;
+}
+
+.bblue {
+    background-color: #ccccff;
+    font-weight: 600;
+}
+
+.byellow {
+    background-color: yellow;
+    font-weight: 600;
+}
+
+.wrong {
+    color: red;
+    font-weight: 600;
+    text-decoration: line-through;
+}
+
+.right {
+    color: blue;
+    font-weight: 600;
+}
